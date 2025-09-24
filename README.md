@@ -54,43 +54,38 @@ Employee_Attrition_Dashboard/
 
 ### Main Charts
 
-#### 1️⃣ Total Employees, Avg Satisfaction & Evaluation
+#### 1.Total Employees, Avg Satisfaction & Evaluation
 Cards display total workforce, average satisfaction, and performance evaluation scores.
 
-#### 2️⃣ Attrition by Department
+#### 2.Attrition by Department
 ![Attrition by Department](visuals/attrition_by_department.png)
 
-#### 3️⃣ Attrition by Salary Level
+#### 3.Attrition by Salary Level
 ![Attrition by Salary](visuals/attrition_by_salary.png)
 
-#### 4️⃣ Attrition by Tenure
+#### 4.Attrition by Tenure
 ![Attrition by Tenure](visuals/attrition_by_tenure.png)
 
-#### 5️⃣ Employees by Department
+#### 5.Employees by Department
 ![Employees by Department](visuals/employees_by_department.png)
 
-#### 6️⃣ Satisfaction Distribution
+#### 6.Satisfaction Distribution
 ![Satisfaction Histogram](visuals/satisfaction_distribution.png)
 
-#### 7️⃣ Last Evaluation Distribution
+#### 7.Last Evaluation Distribution
 ![Evaluation Histogram](visuals/last_evaluation_distribution.png)
 
-#### 8️⃣ Salary Distribution
+#### 8.Salary Distribution
 ![Salary Pie Chart](visuals/salary_distribution.png)
 
-#### 9️⃣ Satisfaction vs Evaluation
+#### 9.Satisfaction vs Evaluation
 ![Satisfaction vs Evaluation](visuals/satisfaction_vs_evaluation.png)
 
-#### 🔟 Dept & Salary Treemap
+#### 10.Dept & Salary Treemap
 ![Treemap Dept Salary](visuals/dept_salary_treemap.png)
 
-### Additional Charts
-
-- **Correlation Heatmap**  
-![Correlation Heatmap](visuals_extra/correlation_heatmap.png)
-
-- **Scatter Matrix / Pair Plot**  
-![Scatter Matrix](visuals_extra/scatter_matrix.png)
+### 11.Correlation Heatmap**  
+![Correlation Heatmap](visuals/correlation_heatmap.png)
 
 ---
 
